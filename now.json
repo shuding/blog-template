@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "blog",
+  "builds": [
+    { "src": "package.json", "use": "@now/next@canary" }
+  ],
+  "routes": [
+    { "src": "/static/.*", "headers": { "cache-control": "public, max-age=31536000, immutable" } }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "description": "A blog.",
+  "license": "MIT",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "build-rss": "node rss.js",
+    "start": "next start",
+    "export": "next export",
+    "now-build": "next build && node rss.js"
+  },
+  "devDependencies": {
+    "@mdx-js/mdx": "^0.15.0",
+    "@zeit/next-mdx": "^1.1.0",
+    "next": "^8.1.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "dependencies": {
+    "@mdx-js/tag": "^0.15.0",
+    "lightense-images": "^1.0.8",
+    "rehype-slug": "^2.0.1",
+    "rss": "^1.2.2"
+  }
+}

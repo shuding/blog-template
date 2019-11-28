@@ -1,8 +1,8 @@
 # Next.js Blog Template
 
-An out-of-the-box Next.js blog template with Markdown (MDX), RSS, CDN (▲ ZEIT Now) support.
+A simple and out-of-the-box Next.js blog template with Markdown (MDX), RSS, CDN (▲ ZEIT Now) support.
 
-Demo: [shud.in](https://github.com/quietshu/blog)
+Demo: [blog-template.now.sh](https://blog-template.now.sh/)
 
 ## Quick Start
 

@@ -4,7 +4,7 @@ A simple and out-of-the-box Next.js blog template with Markdown (MDX), RSS, CDN 
 
 Demo: [blog-template.now.sh](https://blog-template.now.sh/)
 
-## Quick Start
+## Create Your Own Blog
 
 [![Deploy with Vercel](https://vercel.com/button)](https://deploy.new/shuding/blog-template)
 

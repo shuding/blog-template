@@ -1,12 +1,12 @@
 # Next.js Blog Template
 
-A simple and out-of-the-box Next.js blog template with Markdown (MDX), RSS, CDN (▲ ZEIT Now) support.
+A simple and out-of-the-box Next.js blog template with Markdown (MDX), RSS, CDN (▲ Vercel) support.
 
 Demo: [blog-template.now.sh](https://blog-template.now.sh/)
 
 ## Quick Start
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=quietshu/blog-template)
+[![Deploy with Vercel](https://vercel.com/button)](https://deploy.new/shuding/blog-template)
 
 ## Tips
 - Update your blog name and URL in `rss.js`.
@@ -19,10 +19,14 @@ Demo: [blog-template.now.sh](https://blog-template.now.sh/)
 
 ## ▲
 
-Every single push to master gets deployed to the **[▲ ZEIT Now](https://zeit.co)** Cloud automatically.  
-Powered by **Next.js**, **MDX** and **▲ ZEIT Now**.
+Every single push to master gets deployed to the **[▲ Vercel](https://vercel.com)** Cloud automatically.  
+Powered by **Next.js**, **MDX** and **▲ Vercel**.
 
 ## Development
 
 - Install `yarn` from [yarnpkg.org](https://yarnpkg.org)
 - Run `yarn dev` and open `localhost:3000`
+
+## License
+
+Open sourced under the MIT License.
